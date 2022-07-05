@@ -1,0 +1,19 @@
+.DBheader,
+.ACheader,
+.CDheader {
+    font-size: 48px;
+}
+
+.DBheader2,
+.ACheader2,
+.CDheader2 {
+    font-weight: bold;
+    font-family: "Helvetica", "Roboto", sans-serrif;
+    color: red;
+}
+
+.DBbody,
+.ACbody,
+.CDbody {
+    background-color: beige;
+}
